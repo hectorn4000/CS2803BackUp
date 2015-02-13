@@ -1,0 +1,35 @@
+class => < p class="exam"> => .exam
+pseudo classes
+child selector
+pseudo elements
+combinators
+attributes CSS attribute selectors
+
+start off css style sheet with 
+*{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+find out what 
+div {
+	
+}
+does
+
+display
+box model
+inline
+block
+
+positioning
+static wont be altered by top or bottom 
+fixed wont move if screen is scrolled
+relative 
+
+navigation bars
+list items
+figure out anchor tags
+
+sprites

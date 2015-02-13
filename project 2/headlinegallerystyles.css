@@ -1,0 +1,92 @@
+*{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+#logo{
+	height: 5vh;
+	width: 16vw;
+	float: left;
+	background: black;
+	margin-left: 4vw;
+	margin-bottom: 3vh;
+	margin-top: 3vh;
+}
+
+#menu{
+	height:3vh;
+	width: 30vw;
+	float: right;
+	margin-right: 4vw;
+	margin-top: 5vh;
+	margin-bottom: 3vh;
+}
+
+.menuItems{
+	float: right;
+	/*height: 2vh;*/
+	width: 8vw;
+/*	margin-top: auto;*/
+	background: black;
+	margin-left: 2vw;
+	list-style-type: none;
+
+}
+
+#main1{
+	font-family: "Arial";
+	font-size: 47px;
+	font-weight: bold;
+	height:20vh;
+	width: 85vw;
+	/*background: gray;*/
+	margin-top: 4vh;
+	margin-left: 4vw;
+	margin-right: 11vw;
+	clear: both;
+}
+
+#main2{
+	font-family: "Arial";
+	font-size: 32.5px;
+	/*font-weight: bold;*/
+	height:20vh;
+	width: 85vw;
+	/*background: gray;*/
+	/*margin-top: 1vh;*/
+	margin-left: 4vw;
+	margin-right: 11vw;
+	clear:both;
+}
+
+#smallbox1{
+	height:20vh;
+	width: 30vw;
+	background: black;
+	margin-top: 1vh;
+	margin-left: 4vw;
+	margin-right: 1vw;
+	margin-bottom: 1vh;
+	float:left;
+}
+#smallbox2{
+	height:20vh;
+	width: 30vw;
+	background: black;
+	margin-top: 1vh;
+	/*margin-left: 1vw;*/
+	margin-bottom: 1vh;
+	margin-right: 1vw;
+	float:left;
+}
+#smallbox3{
+	height:20vh;
+	width: 30vw;
+	background: black;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+	/*margin-left: 1vw;*/
+	margin-right:4vw;
+	float:left;
+}

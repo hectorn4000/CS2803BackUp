@@ -1,0 +1,66 @@
+*{
+	padding:0px;
+	border:0px;
+	margin:0px;
+}
+
+#logo{
+	float: left;
+	width: 15vw;
+	height: 4vh;
+	background: black;
+	margin-left: 3vw;
+	margin-top: 3vh;
+}
+
+#menu{
+	float: right;
+	width: 10vw;
+	height: 4vh;
+	margin-right: 3vw;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+}
+
+.menuItems{
+	float: right;
+	width: 3.99vw;
+	background: black;
+	line-height: 4vh;
+	margin-left: 1vh;
+	list-style-type: none;
+}
+
+#main{
+	clear: both;
+	width: 94vw;
+	height: 54.7vh;
+	background: black;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-bottom: 3vh;
+}
+
+#box1{
+	float: left;
+	width: 22.75vw;
+	height: 18.2vh;
+	background: black;
+	margin-left: 3vw;
+}
+
+#box2, #box3, #box4{
+	float: left;
+	width: 22.75vw;
+	height: 18.2vh;
+	background: black;
+	margin-left: 1vw;
+	margin-bottom: 5vh;
+}
+
+#footer{
+	clear: left;
+	width: 100vw;
+	height: 9.1vh;
+	background: black;
+}

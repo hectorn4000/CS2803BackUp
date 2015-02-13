@@ -1,0 +1,139 @@
+*{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+#logo{
+	height: 5vh;
+	width: 15vw;
+	float: left;
+	background: black;
+	margin-left: 3vw;
+	margin-bottom: 1vh;
+	margin-top: 3vh;
+	margin-right: 2vw;
+}
+
+#logo2{
+	height: 2.5vh;
+	width: 19vw;
+	float: left;
+	background: black;
+	margin-bottom: 2vh;
+	margin-top: 4vh;
+}
+
+#logo3{
+	height: 2.5vh;
+	width: 19vw;
+	float: right;
+	background: black;
+	margin-bottom: 2vh;
+	margin-top: 4vh;
+	margin-right: 3vw;
+	clear:right;
+
+}
+
+#longbar{
+	height: 5vh;
+	width: 94vw;
+	margin-left:3vw;
+	margin-right: 3vw;
+	margin-top: 3vh;
+	background: black;
+	clear: both;
+}
+
+#bigrecMain{
+	height:35vh;
+	width: 94vw;
+	clear:both;
+	background:white;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-top: 1vh;
+}
+#bigrec{
+	height: 35vh;
+	width: 62vw;
+	float: left;
+	background: black;
+	clear:both;
+}
+
+#bigrec2{
+	height: 35vh;
+	width: 30vw;
+	margin-left: 2vw;
+	background: black;
+	float: left;
+}
+
+#bigBack{
+	height: 90vh;
+	width:94vw;
+	background: black;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-top: 1vh;
+	clear:both;
+}
+
+#sec1{
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	height:84vh;
+	width: 30vw;
+	margin-left: 1vh;
+	background:black;
+	float:left;
+}
+
+#sec2{
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	height:84vh;
+	width: 30vw;
+	margin-left: 1vh;
+	background:black;
+	float:left;
+}
+
+#sec3{
+	margin-top: 5vh;
+	margin-bottom: 3vh;
+	height:82vh;
+	width: 30vw;
+	margin-left: 2vh;
+	background:white;
+	float:left;
+}
+
+#smallBox{
+	width: 30vw;
+	height: 20vh;
+	margin-top: 2vh;
+	background:white;
+	float:left;
+	clear:both;
+}
+
+#secLogo{
+	width:17vw;
+	height: 2vh;
+	background: white;
+	margin-top: 4vw;
+	float:left;
+	clear:both;
+}
+
+#medBox{
+	width: 30vw;
+	height: 31vh;
+	margin-top: 1vh;
+	float: left;
+	clear:both;
+	background:white;
+}
